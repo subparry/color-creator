@@ -1,0 +1,7 @@
+{
+  "name": "knob_color_picker",
+  "private": true,
+  "dependencies": {
+    "jquery-knob": "^1.2.11"
+  }
+}
